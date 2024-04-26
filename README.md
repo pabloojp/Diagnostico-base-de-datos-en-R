@@ -1,1 +1,3 @@
 # Diagnostico-base-de-datos-en-R
+
+Proximamente...
